@@ -50,4 +50,4 @@ Badges:
 
 ## 🌎 Conecta conmigo
 
-![LinkedIn](https://www.linkedin.com/in/kevinmendozaq/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin%20Mendoza-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kevinmendozaq/)
