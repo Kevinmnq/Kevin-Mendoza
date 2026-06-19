@@ -1,38 +1,53 @@
-## Presentación
+# 👋 Hola, soy Kevin Mendoza
 
-Hola, soy Kevin Mendoza
+### Ingeniero Industrial | Supply Chain | Business Intelligence | Planeamiento Financiero
 
-Ingeniero Industrial titulado de la Universidad de Lima con mención sobresaliente
+💼 Actualmente me desempeño como Analista de Abastecimiento de Repuestos en Ipesa, aplicando análisis de datos, control de inventarios y herramientas de automatización para la toma de decisiones.
 
-Actualmente me desempeño como analista de abastecimiento de repuestos para el rubro camiones en Ipesa. Tengo conocimientos y experiencia en Supply Chain, planeamiento financiero y business intelligence, aplicando herramientas de análisis de datos y automatización de procesos para la toma de decisiones estratégicas.
+## 🚀 Tecnologías y herramientas
 
+Badges:
 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-🔹 Áreas de interés:
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-✔ Logística y Supply Chain: Gestión de compras, control de stock, análisis de rotación y optimización de procesos operativos.
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-✔ Planeamiento y Control de Gestión: Análisis financiero, control presupuestal, costeo y forecasting.
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
-✔ Business Intelligence: Manejo de datos, modelado y visualización con Power BI, SQL y Excel Avanzado (Macros, Power Query).
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+## 📌 Áreas de especialización
 
-🔹 Habilidades clave:
+- 📦 Logística y Supply Chain
 
-✅ Gestión de costos y presupuesto 📊
+- 📊 Business Intelligence
 
-✅ Control de stock y rotación de inventario 📦
+- 💰 Planeamiento y Control de Gestión
 
-✅ Análisis de datos y optimización de procesos ⚙
+- 📈 Forecasting y análisis financiero
 
-✅ Manejo de Power BI, SQL, Excel Avanzado (Macros, Power Query) 📈
+- ⚙️ Optimización de procesos
 
-✅ ERP: SAP FI & S/4HANA
+## 📂 Proyectos destacados
 
+- 📊 Dashboard de análisis de datos en Power BI
 
+- 🤖 Modelos de Machine Learning en R y Orange
 
-Me interesa contribuir en logística, supply chain, planeamiento financiero o business intelligence, aplicando herramientas de análisis para optimizar costos y procesos operativos.
+- 📈 Automatización de reportes con Excel VBA y Power Query
 
+- 🏭 Gestión de compras y abastecimiento en SAP S/4HANA
 
-Linkedin: https://www.linkedin.com/in/kevinmendozaq/
+## 📈 Estadísticas de GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kevinmnq&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevinmnq&layout=compact&theme=tokyonight&hide_border=true)
+
+## 🌎 Conecta conmigo
+
+![LinkedIn](https://www.linkedin.com/in/kevinmendozaq/)
